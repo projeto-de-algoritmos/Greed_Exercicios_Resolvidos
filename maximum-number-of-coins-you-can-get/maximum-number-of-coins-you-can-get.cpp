@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/maximum-number-of-coins-you-can-get
 class Solution {
 public:
     int maxCoins(vector<int>& pilhas) {
